@@ -1,0 +1,601 @@
+﻿listing_code,district,property_type,area_m2,bedrooms,bathrooms,house_age_years,has_parking,has_elevator,has_balcony,price_billion_vnd,price_million_vnd_m2,listed_year
+HN0001,Long Biên,Chung cu,,1,1,,,Có,Có,2.96,,2025
+HN0002, Cau Giay ,Nhà trong ngõ,155.0,4,3,17.0,Không,Không,Không,9.87,63.7,2024
+HN0003,Bắc Từ Liêm,Chung cu,76.1,3,2,7.0,Không,Có,Có,3.72,48.9,2026
+HN0004,Long Biên,Chung cu,92.3,3,2,8.0,Có,Có,Có,4.26,46.1,2025
+HN0005,Hai Bà Trưng,Chung cu,114.3,4,3,2.0,Có,Có,Có,5.65,49.4,2026
+HN0006,Tây Hồ,Nhà trong ngõ,158.7,5,4,4.0,Có,Không,Có,10.14,63.9,2025
+HN0007,Bắc Từ Liêm,Chung cu,114.8,4,3,1.0,Có,Có,Có,5.35,46.6,2025
+HN0008,Nam Từ Liêm,Nhà phố,177.7,6,5,11.0,Có,Không,Có,13.63,76.7,2025
+HN0009,Tây Hồ,Nhà phố,145.6,4,3,22.0,Có,Không,Không,13.31,91.4,2026
+HN0010, Cau Giay ,Nhà phố,191.6,6,5,11.0,Có,Không,Không,18.2,95.0,2026
+HN0011,Long Biên,Chung cu,61.6,2,1,24.0,Có,Có,Không,2.64,42.9,2026
+HN0012,Nam Từ Liêm,Nhà trong ngõ,105.7,3,2,11.0,Không,Không,Có,5.25,49.7,2025
+HN0013,Hai Bà Trưng,Nhà phố,198.1,5,4,2.0,Có,Không,Không,14.64,73.9,2026
+HN0014,Tây Hồ,Nhà trong ngõ,205.5,6,5,47.0,Có,Không,Có,10.91,53.1,2025
+HN0015,Hà Đông,Nhà phố,182.6,5,4,42.0,Có,Không,Có,8.24,45.1,2024
+HN0016,Hai Bà Trưng,Nhà trong ngõ,52.4,3,2,40.0,Có,Không,Có,2.87,54.7,2025
+HN0017,Hai Bà Trưng,Nhà phố,122.1,4,3,31.0,Có,Không,Có,8.82,72.2,2024
+HN0018,Bắc Từ Liêm,Nhà phố,88.5,4,3,42.0,Không,Không,Có,5.4,61.0,2025
+HN0019,Ba Đình,Nhà phố,205.7,5,4,34.0,Không,Không,Có,16.74,81.4,2025
+HN0020,Thanh Xuân,Nhà phố,134.0,4,3,9.0,Không,Không,Có,8.56,63.9,2026
+HN0021,Long Biên,Chung cu,70.6,2,1,35.0,Không,Không,Không,3.23,45.8,2026
+HN0022,Ba Đình,Biệt thự,191.5,7,6,23.0,Không,Có,Không,21.28,111.1,2026
+HN0023,Hoàng Mai,Biệt thự,113.7,4,3,17.0,Không,Có,Có,9.95,87.5,2026
+HN0024,Hai Bà Trưng,Biệt thự,125.4,4,3,21.0,Không,Có,Có,11.29,90.0,2026
+HN0025,Đống Đa,Nhà trong ngõ,114.0,5,4,18.0,Có,Không,Có,8.01,70.3,2025
+HN0026,Hà Đông,Nhà trong ngõ,161.2,5,4,44.0,Không,Không,Có,5.59,34.7,2025
+HN0027,Nam Từ Liêm,Nhà phố,62.3,3,2,37.0,Có,Không,Có,4.12,66.2,2026
+HN0028,Hai Bà Trưng,Nhà phố,141.5,4,3,22.0,Không,Không,Có,10.54,74.5,2025
+HN0029,Nam Từ Liêm,Biệt thự,158.9,4,3,28.0,Có,Có,Không,13.47,84.8,2025
+HN0030,Ba Đình,Biệt thự,50.5,2,1,28.0,Có,Có,Có,5.11,101.1,2025
+HN0031,Đống Đa,Chung cu,97.7,4,3,40.0,Có,Có,Có,5.27,53.9,2026
+HN0032,Tây Hồ,Chung cu,127.8,4,3,2.0,Không,Không,Không,9.19,71.9,2024
+HN0033,Hai Bà Trưng,Nhà phố,182.4,5,4,32.0,Không,Không,Có,15.29,83.8,2026
+HN0034,Thanh Xuân,Nhà trong ngõ,42.1,2,1,7.0,Có,Không,Có,2.58,61.4,2024
+HN0035,Hà Đông,Chung cu,119.6,4,3,17.0,Không,Không,Không,3.84,32.1,2025
+HN0036,Tây Hồ,Nhà phố,48.4,1,1,26.0,Có,Không,Không,3.85,79.6,2025
+HN0037,Đống Đa,Nhà trong ngõ,201.7,6,5,7.0,Không,Không,Có,13.92,69.0,2026
+HN0038,Tây Hồ,Nhà trong ngõ,197.5,6,5,18.0,Không,Không,Không,14.2,71.9,2026
+HN0039,Tây Hồ,Nhà phố,73.1,3,2,24.0,Có,Không,Có,6.07,83.1,2024
+HN0040,Tây Hồ,Nhà phố,188.7,7,6,44.0,Không,Không,Không,16.81,89.1,2026
+HN0041,Long Biên,Nhà phố,93.7,4,3,22.0,Có,Không,Có,4.43,47.3,2026
+HN0042,Ba Đình,Chung cu,129.5,3,2,38.0,Không,Có,Có,7.34,56.7,2025
+HN0043,Hoàng Mai,Nhà trong ngõ,190.5,7,6,1.0,Không,Không,Có,10.02,52.6,2025
+HN0044,Ba Đình,Biệt thự,133.0,4,3,36.0,Không,Có,Có,18.06,135.8,2026
+HN0045,Hoàng Mai,Chung cu,60.0,3,2,9.0,Có,Không,Có,2.41,40.1,2025
+HN0046,Ba Đình,Biệt thự,177.2,5,4,23.0,Có,Có,Có,19.85,112.0,2026
+HN0047,Bắc Từ Liêm,Chung cu,53.1,3,2,41.0,Có,Có,Có,1.94,36.5,2025
+HN0048,Hoàng Mai,Chung cu,,4,3,8.0,Không,Có,Không,3.81,45.1,2024
+HN0049,Hoàn Kiếm,Nhà trong ngõ,160.4,5,4,8.0,Có,Không,Có,11.21,69.9,2026
+HN0050,Hoàn Kiếm,Nhà trong ngõ,152.8,5,4,24.0,Có,Không,Không,10.28,67.3,2025
+HN0051,Hai Bà Trưng,Nhà phố,129.4,4,3,8.0,Có,Không,Có,10.73,82.9,2026
+HN0052,Bắc Từ Liêm,Biệt thự,95.5,3,2,31.0,Không,Không,Có,6.2,64.9,2025
+HN0053,Hai Bà Trưng,Chung cu,77.5,3,2,45.0,Không,Không,Không,4.05,52.2,2024
+HN0054,Hoàng Mai,Nhà phố,38.5,2,1,20.0,Không,Không,Không,1.99,51.8,2024
+HN0055,Ba Đình,Biệt thự,61.9,2,1,19.0,Có,Có,Không,8.39,135.5,2024
+HN0056,Đống Đa,Chung cu,74.0,2,1,17.0,Có,Có,Có,3.37,45.6,2025
+HN0057,Hoàn Kiếm,Chung cu,121.3,4,3,44.0,Không,Không,Có,6.88,56.7,2025
+HN0058,Hai Bà Trưng,Nhà phố,155.6,5,4,31.0,Có,Không,Có,11.2,72.0,2025
+HN0059,Hai Bà Trưng,Nhà phố,166.2,5,4,42.0,Có,Không,Không,12.17,73.2,2026
+HN0060,Hai Bà Trưng,Nhà phố,201.7,5,4,6.0,Có,Không,Có,13.57,67.3,2026
+HN0061,Hoàn Kiếm,Nhà trong ngõ,142.6,5,4,18.0,Có,Không,Không,9.94,69.7,2025
+HN0062,Hoàn Kiếm,Biệt thự,93.7,2,1,,Có,Không,Có,9.84,105.0,2024
+HN0063,Tây Hồ,Nhà phố,146.4,6,5,8.0,Không,Không,Có,11.81,80.7,2024
+HN0064, Cau Giay ,Nhà trong ngõ,173.1,6,5,24.0,Không,Không,Có,10.8,62.4,2025
+HN0065,Hai Bà Trưng,Nhà trong ngõ,116.4,4,3,4.0,Không,Không,Có,8.19,70.4,2026
+HN0066,Nam Từ Liêm,Nhà trong ngõ,70.7,1,1,34.0,Không,Không,Có,3.52,49.8,2025
+HN0067,Thanh Xuân,Nhà trong ngõ,63.6,1,1,25.0,Có,Không,Có,2.9,45.6,2025
+HN0068,Tây Hồ,Nhà trong ngõ,81.5,2,1,43.0,Không,Không,Có,5.3,65.0,2026
+HN0069,Long Biên,Chung cu,78.4,1,1,41.0,Có,Có,Không,3.65,46.6,2024
+HN0070,Hoàng Mai,Nhà phố,117.7,3,2,1.0,Không,Không,Có,6.06,51.5,2025
+HN0071,Hai Bà Trưng,Nhà trong ngõ,53.4,3,2,36.0,Có,Không,Có,3.05,57.1,2025
+HN0072,Hoàn Kiếm,Nhà phố,107.9,4,3,3.0,Có,Không,Có,12.1,112.1,2026
+HN0073,Hà Đông,Nhà phố,95.2,3,2,47.0,Không,Không,Có,5.4,56.7,2025
+HN0074,Đống Đa,Nhà phố,150.0,5,4,2.0,Không,Không,Có,10.01,66.7,2025
+HN0075,Thanh Xuân,Chung cu,135.6,4,3,4.0,Có,Có,Có,8.53,62.9,2025
+HN0076,Long Biên,Nhà trong ngõ,152.1,6,5,25.0,Không,Không,Có,7.04,46.3,2026
+HN0077,Hà Đông,Nhà phố,96.7,2,1,1.0,Có,Không,Có,4.22,43.6,2025
+HN0078,Hoàn Kiếm,Nhà phố,141.7,3,2,13.0,Có,Không,Có,12.84,90.6,2024
+HN0079,Bắc Từ Liêm,Nhà phố,87.2,3,2,25.0,Có,Không,Không,5.21,59.8,2026
+HN0080,Thanh Xuân,Nhà trong ngõ,160.6,6,5,7.0,Không,Không,Có,8.91,55.5,2025
+HN0081,Bắc Từ Liêm,Nhà phố,66.8,3,2,27.0,Có,Không,Có,3.03,45.3,2026
+HN0082,Hoàng Mai,Chung cu,100.9,3,2,17.0,Có,Có,Có,4.93,48.9,2026
+HN0083,Hà Đông,Nhà phố,60.5,1,1,35.0,Không,Không,Không,3.6,59.5,2025
+HN0084,Hoàng Mai,Biệt thự,178.7,7,6,12.0,Không,Có,Có,12.29,68.8,2024
+HN0085,Tây Hồ,Chung cu,52.1,2,1,29.0,Không,Có,Có,3.8,73.0,2024
+HN0086,Nam Từ Liêm,Nhà phố,67.2,3,2,21.0,Có,Không,Có,3.88,57.7,2025
+HN0087,Hoàn Kiếm,Nhà phố,153.9,5,4,6.0,Có,Không,Không,15.42,100.2,2026
+HN0088, Cau Giay ,Nhà trong ngõ,172.8,4,3,33.0,Không,Không,Không,11.99,69.4,2026
+HN0089,Ba Đình,Chung cu,76.7,2,1,44.0,Không,Không,Có,4.26,55.6,2024
+HN0090,Ba Đình,Nhà phố,42.5,1,1,44.0,,Không,Có,4.04,95.0,2025
+HN0091,Bắc Từ Liêm,Chung cu,72.6,3,2,21.0,Có,Có,Không,3.33,45.9,2025
+HN0092,Thanh Xuân,Nhà phố,176.2,6,5,39.0,Có,Không,Có,10.4,59.0,2026
+HN0093,Long Biên,Nhà trong ngõ,74.6,3,2,43.0,Có,Không,Có,3.23,43.3,2025
+HN0094,Long Biên,Nhà trong ngõ,157.0,5,4,26.0,Có,Không,Có,8.2,52.2,2026
+HN0095,Tây Hồ,Biệt thự,,2,1,41.0,Có,Có,Có,9.5,125.3,2025
+HN0096, Cau Giay ,Nhà trong ngõ,55.0,1,1,46.0,Có,Không,Có,3.43,62.4,2026
+HN0097,Thanh Xuân,Chung cu,129.1,4,3,36.0,Không,Không,Có,5.86,45.4,2025
+HN0098,Hoàn Kiếm,Nhà phố,145.2,6,5,36.0,Có,Không,Có,12.91,88.9,2024
+HN0099, Cau Giay ,Chung cu,146.0,6,5,45.0,Có,Không,Có,8.47,58.0,2024
+HN0100, Cau Giay ,Nhà trong ngõ,177.1,5,4,12.0,Không,Không,Có,11.95,67.5,2026
+HN0101,Long Biên,Chung cu,133.6,5,4,10.0,Có,Có,Không,6.37,47.7,2026
+HN0102, Cau Giay ,Nhà phố,189.3,6,5,27.0,Có,Không,Có,14.27,75.4,2025
+HN0103,Tây Hồ,Nhà phố,209.2,6,5,0.0,Có,Không,Không,19.96,95.4,2025
+HN0104,Long Biên,Chung cu,55.6,3,2,24.0,Có,Có,Không,2.68,,2025
+HN0105,Hà Đông,Nhà trong ngõ,62.7,1,1,5.0,Không,Không,Có,2.75,43.8,2025
+HN0106,Thanh Xuân,Nhà trong ngõ,38.5,1,1,32.0,Có,Không,Có,1.98,51.5,2024
+HN0107,Bắc Từ Liêm,Nhà phố,110.9,2,1,41.0,Có,Không,Không,6.08,54.8,2026
+HN0108,Long Biên,Nhà trong ngõ,57.0,2,1,31.0,Không,Không,Có,2.98,52.2,2026
+HN0109,Long Biên,Nhà phố,95.6,4,3,5.0,Có,Không,Có,6.0,62.8,2026
+HN0110,Hà Đông,Nhà trong ngõ,193.4,6,5,29.0,Có,Không,Có,8.64,44.7,2024
+HN0111, Cau Giay ,Nhà phố,162.2,4,3,27.0,Có,Không,Có,11.56,71.3,2024
+HN0112,Đống Đa,Chung cu,99.9,4,3,46.0,Có,Có,Không,4.44,44.4,2026
+HN0113,Hoàn Kiếm,Nhà trong ngõ,118.0,4,3,40.0,Có,Không,Có,7.96,67.5,2024
+HN0114,Bắc Từ Liêm,Nhà phố,82.7,3,2,14.0,Có,Không,Có,4.14,50.1,2025
+HN0115,Bắc Từ Liêm,Nhà phố,186.2,5,4,11.0,Có,Không,Không,9.07,48.7,2024
+HN0116,Hoàn Kiếm,Chung cu,106.1,3,2,6.0,Không,Có,Có,8.33,78.5,2026
+HN0117,Ba Đình,Nhà phố,116.4,3,2,7.0,Không,Không,Có,10.99,94.4,2026
+HN0118,Đống Đa,Nhà trong ngõ,115.7,4,3,44.0,Không,Không,Không,7.42,64.1,2024
+HN0119,Hai Bà Trưng,Nhà trong ngõ,150.3,5,4,27.0,Có,Không,Không,9.0,59.9,2025
+HN0120, Cau Giay ,Nhà trong ngõ,197.2,5,4,39.0,Có,Không,Có,12.32,62.5,2025
+HN0121,Ba Đình,Biệt thự,175.9,5,4,11.0,Có,Không,Không,18.42,104.7,2025
+HN0122,Thanh Xuân,Nhà phố,75.0,2,1,8.0,Có,Không,Có,5.97,79.6,2026
+HN0123,Long Biên,Nhà phố,137.0,4,3,,Có,Không,Có,6.75,49.3,2026
+HN0124,Hà Đông,Nhà trong ngõ,43.6,1,1,39.0,Không,Không,Có,1.66,38.1,2026
+HN0125,Thanh Xuân,Nhà phố,161.2,5,4,11.0,Không,Không,Có,12.25,76.0,2026
+HN0126,Bắc Từ Liêm,Chung cu,131.6,4,3,31.0,Có,Có,Có,5.62,42.7,2024
+HN0127,Hoàn Kiếm,Biệt thự,99.5,3,2,16.0,Không,Có,Có,14.42,144.9,2025
+HN0128,Bắc Từ Liêm,Nhà trong ngõ,145.8,6,5,30.0,Có,Không,Có,6.23,42.7,2024
+HN0129,Hoàn Kiếm,Biệt thự,154.4,6,5,2.0,Có,Có,Không,22.25,144.1,2024
+HN0130,Ba Đình,Chung cu,91.8,2,1,22.0,Không,Có,Có,6.21,67.7,2025
+HN0131,Đống Đa,Nhà trong ngõ,88.3,3,2,26.0,Có,Không,Có,5.98,67.7,2025
+HN0132,Hoàn Kiếm,Nhà trong ngõ,144.0,4,3,15.0,Có,Không,Có,10.7,74.3,2026
+HN0133,Thanh Xuân,Biệt thự,49.9,2,1,5.0,Có,Có,Không,5.34,107.0,2026
+HN0134,Bắc Từ Liêm,Nhà phố,124.5,4,3,16.0,Có,Không,Không,6.52,52.4,2025
+HN0135,Ba Đình,Chung cu,112.1,5,4,17.0,Có,Không,Không,7.49,66.8,2026
+HN0136, Cau Giay ,Nhà phố,159.3,4,3,21.0,Có,Không,Có,11.52,72.3,2026
+HN0137,Đống Đa,Nhà phố,59.4,3,2,14.0,Có,Không,Có,3.76,63.3,2025
+HN0138,Hoàn Kiếm,Nhà trong ngõ,98.2,4,3,44.0,Không,Không,Có,6.04,61.5,2025
+HN0139,Nam Từ Liêm,Biệt thự,76.2,3,2,15.0,Có,Có,Không,7.11,93.3,2025
+HN0140,Long Biên,Nhà trong ngõ,49.7,2,1,41.0,Không,Không,Không,1.94,39.0,2024
+HN0141,Hà Đông,Nhà phố,148.7,4,3,10.0,Có,Không,Có,6.48,43.6,2025
+HN0142,Ba Đình,Nhà phố,,3,2,22.0,Có,Không,Không,13.17,103.9,2024
+HN0143,Hà Đông,Chung cu,59.6,1,1,1.0,Không,Không,Có,2.17,36.4,2026
+HN0144,Thanh Xuân,Nhà trong ngõ,110.5,3,2,21.0,Không,Không,Có,6.03,54.6,2025
+HN0145,Bắc Từ Liêm,Nhà phố,68.9,3,2,39.0,Không,Không,Có,3.87,56.1,2026
+HN0146,Hoàng Mai,Nhà phố,50.7,1,1,32.0,Không,Không,Có,2.63,51.8,2025
+HN0147,Ba Đình,Nhà phố,104.7,4,3,33.0,Có,Không,Có,8.18,78.1,2024
+HN0148,Thanh Xuân,Nhà phố,45.5,1,1,28.0,Không,Không,Có,3.6,79.1,2024
+HN0149,Ba Đình,Nhà phố,83.6,3,2,48.0,Có,Không,Có,7.56,90.4,2025
+HN0150,Thanh Xuân,Chung cu,47.4,1,1,21.0,Có,Có,Có,2.67,56.3,2025
+HN0151, Cau Giay ,Nhà phố,105.2,4,3,41.0,Có,Không,Có,9.02,85.7,2025
+HN0152,Thanh Xuân,Nhà trong ngõ,100.3,3,2,40.0,Có,Không,Có,6.3,62.8,2025
+HN0153,Nam Từ Liêm,Nhà trong ngõ,169.4,5,4,40.0,Có,Không,Có,9.08,53.6,2026
+HN0154,Hoàn Kiếm,Nhà phố,119.0,4,3,10.0,Có,Không,Có,11.16,93.8,2026
+HN0155,Thanh Xuân,Chung cu,101.5,2,1,37.0,Có,Không,Có,4.62,45.5,2025
+HN0156,Thanh Xuân,Nhà phố,157.5,5,4,1.0,Có,Không,Có,12.74,80.9,2025
+HN0157,Nam Từ Liêm,Nhà phố,158.3,5,4,23.0,Không,Không,Có,10.0,63.2,2025
+HN0158,Thanh Xuân,Nhà trong ngõ,201.6,6,5,34.0,Có,Không,Không,10.85,53.8,2026
+HN0159, Cau Giay ,Chung cu,75.0,3,2,11.0,Có,Không,Có,4.55,60.7,2025
+HN0160,Hai Bà Trưng,Biệt thự,102.2,3,2,31.0,Có,Không,Có,8.33,81.5,2024
+HN0161,Hà Đông,Nhà phố,50.6,2,1,21.0,Có,Không,Có,2.47,48.9,2025
+HN0162,Đống Đa,Chung cu,95.2,3,2,3.0,Có,Có,Có,6.15,64.6,2025
+HN0163,Hai Bà Trưng,Nhà phố,185.5,5,4,13.0,Có,Không,Có,12.78,68.9,2025
+HN0164,Hai Bà Trưng,Chung cu,47.7,1,1,26.0,Không,Có,Không,2.78,58.3,2026
+HN0165,Long Biên,Nhà phố,92.1,3,2,0.0,Không,Không,Có,6.27,68.1,2026
+HN0166,Hoàng Mai,Chung cu,84.2,3,2,47.0,Có,Có,Có,3.96,47.0,2025
+HN0167,Hai Bà Trưng,Nhà phố,152.6,4,3,23.0,Không,Không,Có,10.1,66.2,2025
+HN0168,Long Biên,Nhà phố,38.2,1,1,42.0,Có,Không,Có,2.06,53.9,2024
+HN0169,Hai Bà Trưng,Chung cu,131.5,3,2,45.0,Không,Không,Có,6.76,51.4,2025
+HN0170,Nam Từ Liêm,Nhà phố,101.8,4,3,13.0,Có,Không,Không,6.65,65.3,2025
+HN0171, Cau Giay ,Chung cu,146.3,5,4,31.0,Có,Có,Có,7.84,53.6,2026
+HN0172,Thanh Xuân,Nhà phố,193.3,7,6,29.0,Không,Không,Không,12.26,63.4,2025
+HN0173,Ba Đình,Chung cu,76.4,2,1,1.0,Không,Có,Có,4.27,55.9,2025
+HN0174,Tây Hồ,Nhà trong ngõ,81.7,4,3,39.0,Không,Không,Có,6.11,74.8,2026
+HN0175,Hà Đông,Chung cu,137.9,3,2,7.0,Có,Có,Có,5.28,38.3,2025
+HN0176,Hoàng Mai,Nhà trong ngõ,119.6,3,2,14.0,Không,Không,Có,4.81,40.2,2025
+HN0177,Hoàng Mai,Chung cu,124.8,3,2,46.0,Không,Có,Không,6.04,48.4,2026
+HN0178,Thanh Xuân,Nhà trong ngõ,62.2,2,1,33.0,Có,Không,Không,3.12,50.1,2025
+HN0179,Long Biên,Nhà trong ngõ,176.9,6,5,46.0,,Không,Có,8.47,47.9,2026
+HN0180,Tây Hồ,Nhà trong ngõ,199.5,6,5,40.0,Có,Không,Không,11.69,58.6,2025
+HN0181,Hoàng Mai,Nhà trong ngõ,209.9,8,7,10.0,Không,Không,Có,10.7,51.0,2025
+HN0182, Cau Giay ,Nhà trong ngõ,95.4,3,2,0.0,Có,Không,Có,5.36,56.2,2024
+HN0183,Hoàng Mai,Chung cu,127.5,4,3,5.0,Có,Có,Không,4.88,38.3,2026
+HN0184,Tây Hồ,Nhà phố,139.4,5,4,,Có,Không,Có,10.25,73.5,2026
+HN0185, Cau Giay ,Chung cu,112.9,3,2,17.0,Không,Không,Có,5.78,51.2,2026
+HN0186,Long Biên,Nhà trong ngõ,192.5,7,6,3.0,Có,Không,Có,7.57,39.3,2024
+HN0187,Hà Đông,Chung cu,85.4,3,2,44.0,Có,Không,Có,3.35,39.2,2025
+HN0188,Ba Đình,Nhà trong ngõ,119.9,5,4,9.0,Có,Không,Không,7.23,60.3,2025
+HN0189,Long Biên,Biệt thự,,4,3,41.0,Có,Có,Không,8.63,65.8,2025
+HN0190,Bắc Từ Liêm,Nhà phố,70.2,2,1,26.0,Có,Không,Không,4.3,61.2,2024
+HN0191,Hai Bà Trưng,Chung cu,120.5,4,3,1.0,Có,Có,Có,6.59,54.7,2026
+HN0192,Tây Hồ,Nhà trong ngõ,98.3,3,2,45.0,Có,Không,Có,5.35,54.4,2025
+HN0193,Thanh Xuân,Nhà phố,157.4,5,4,20.0,Có,Không,Có,10.97,69.7,2025
+HN0194,Hai Bà Trưng,Nhà trong ngõ,174.4,5,4,1.0,Không,Không,Không,11.63,66.7,2024
+HN0195,Hoàng Mai,Nhà phố,175.4,5,4,2.0,Không,Không,Không,11.61,66.2,2025
+HN0196,Hoàng Mai,Nhà trong ngõ,204.5,6,5,0.0,Không,Không,Có,8.02,39.2,2025
+HN0197,Hoàn Kiếm,Biệt thự,92.7,2,1,35.0,Không,Không,Có,11.66,125.8,2025
+HN0198,Long Biên,Nhà phố,101.3,2,1,22.0,Không,Không,Có,6.48,64.0,2026
+HN0199, Cau Giay ,Nhà phố,186.2,7,6,31.0,Có,Không,Không,12.49,67.1,2026
+HN0200,Đống Đa,Chung cu,132.8,4,3,32.0,Có,Có,Không,7.89,59.4,2026
+HN0201,Tây Hồ,Nhà phố,198.1,7,6,34.0,Có,Không,Không,14.2,71.7,2026
+HN0202,Thanh Xuân,Biệt thự,114.0,5,4,41.0,Không,Không,Không,9.09,79.7,2025
+HN0203,Đống Đa,Nhà trong ngõ,159.2,4,3,3.0,Không,Không,Có,8.1,50.9,2026
+HN0204,Hà Đông,Nhà trong ngõ,207.8,7,6,47.0,Không,Không,Không,8.4,40.4,2024
+HN0205,Thanh Xuân,Nhà trong ngõ,42.1,1,1,34.0,Có,Không,Có,2.12,50.4,2026
+HN0206, Cau Giay ,Chung cu,76.6,2,1,36.0,Có,Có,Không,4.86,63.5,2024
+HN0207,Hà Đông,Nhà phố,86.2,3,2,3.0,Không,Không,Có,5.19,,2026
+HN0208,Tây Hồ,Chung cu,94.1,3,2,4.0,Có,Không,Có,6.06,64.4,2025
+HN0209,Hoàn Kiếm,Nhà phố,108.4,2,1,2.0,Không,Không,Không,12.59,116.1,2024
+HN0210,Hà Đông,Nhà trong ngõ,209.1,7,6,1.0,Có,Không,Không,8.51,40.7,2025
+HN0211,Đống Đa,Nhà trong ngõ,173.0,4,3,31.0,Có,Không,Không,8.91,51.5,2025
+HN0212,Tây Hồ,Chung cu,68.3,1,1,26.0,Có,Không,Có,3.67,53.8,2026
+HN0213,Hai Bà Trưng,Chung cu,118.3,3,2,12.0,Có,Không,Có,7.32,61.9,2025
+HN0214,Long Biên,Biệt thự,161.9,4,3,25.0,Không,Có,Có,9.96,61.5,2024
+HN0215,Bắc Từ Liêm,Biệt thự,69.1,3,2,9.0,Có,Có,Có,4.8,69.4,2026
+HN0216,Nam Từ Liêm,Nhà trong ngõ,119.6,3,2,1.0,Không,Không,Không,6.52,54.5,2025
+HN0217,Hoàn Kiếm,Nhà phố,148.1,5,4,47.0,Có,Không,Không,13.67,92.3,2024
+HN0218, Cau Giay ,Chung cu,149.4,6,5,17.0,Không,Có,Có,9.5,63.6,2025
+HN0219,Hoàn Kiếm,Chung cu,75.6,2,1,28.0,Có,Không,Không,6.06,80.1,2025
+HN0220,Hai Bà Trưng,Nhà trong ngõ,187.7,6,5,9.0,Không,Không,Có,10.08,53.7,2026
+HN0221,Thanh Xuân,Nhà trong ngõ,172.7,5,4,19.0,Có,Không,Có,9.03,52.3,2024
+HN0222,Hoàng Mai,Nhà trong ngõ,194.3,7,6,24.0,Có,Không,Không,7.23,37.2,2025
+HN0223,Tây Hồ,Chung cu,118.9,5,4,11.0,Không,Không,Có,8.07,67.9,2026
+HN0224,Hai Bà Trưng,Chung cu,148.2,5,4,24.0,Không,Có,Có,7.54,50.9,2026
+HN0225,Bắc Từ Liêm,Nhà trong ngõ,162.0,4,3,1.0,Không,Không,Không,7.84,48.4,2026
+HN0226,Hà Đông,Nhà phố,176.1,6,5,44.0,Không,Không,Không,8.91,50.6,2026
+HN0227, Cau Giay ,Chung cu,52.9,2,1,47.0,Có,Có,Có,2.42,45.8,2025
+HN0228,Tây Hồ,Nhà trong ngõ,38.5,1,1,2.0,Có,Không,Không,2.21,57.4,2025
+HN0229, Cau Giay ,Nhà phố,118.0,5,4,14.0,Không,Không,Có,8.41,71.3,2025
+HN0230,Thanh Xuân,Nhà trong ngõ,161.7,5,4,25.0,Có,Không,Có,9.01,55.7,2026
+HN0231,Hai Bà Trưng,Chung cu,87.8,4,3,6.0,Không,Không,Có,4.78,54.4,2026
+HN0232,Bắc Từ Liêm,Nhà trong ngõ,194.3,5,4,41.0,Có,Không,Có,9.64,49.6,2025
+HN0233,Hoàng Mai,Nhà trong ngõ,123.9,4,3,40.0,Có,Không,Không,6.22,50.2,2025
+HN0234,Ba Đình,Nhà phố,91.9,2,1,39.0,Có,Không,Không,9.12,99.2,2026
+HN0235,Hai Bà Trưng,Nhà phố,151.6,5,4,10.0,Có,Không,Có,9.6,63.3,2026
+HN0236, Cau Giay ,Nhà phố,,2,1,31.0,Có,Không,Có,4.66,79.4,2025
+HN0237,Long Biên,Nhà trong ngõ,187.9,6,5,25.0,Không,Không,Có,6.82,36.3,2024
+HN0238,Hoàng Mai,Biệt thự,195.8,7,6,16.0,Không,Có,Không,15.39,78.6,2025
+HN0239,Hai Bà Trưng,Nhà phố,147.8,4,3,45.0,Không,Không,Không,9.05,61.2,2025
+HN0240,Hoàn Kiếm,Nhà trong ngõ,79.6,2,1,13.0,Không,Không,Có,5.93,74.5,2025
+HN0241, Cau Giay ,Biệt thự,120.9,5,4,35.0,Không,Có,Không,11.28,93.3,2024
+HN0242,Hoàn Kiếm,Nhà phố,61.1,2,1,4.0,Có,Không,Không,5.57,91.2,2024
+HN0243,Bắc Từ Liêm,Chung cu,142.1,5,4,26.0,Không,Không,Không,5.04,35.5,2024
+HN0244,Hà Đông,Nhà trong ngõ,115.4,3,2,39.0,Không,Không,Không,3.84,33.3,2025
+HN0245,Hà Đông,Nhà trong ngõ,172.5,4,3,,Có,Không,Có,6.54,37.9,2025
+HN0246,Hoàng Mai,Nhà trong ngõ,124.7,5,4,3.0,Có,Không,Không,5.92,47.5,2025
+HN0247, Cau Giay ,Chung cu,115.5,5,4,29.0,Có,Không,Có,6.06,52.5,2026
+HN0248,Thanh Xuân,Nhà phố,114.4,4,3,33.0,Có,Không,Có,8.24,72.0,2025
+HN0249,Đống Đa,Chung cu,126.2,4,3,46.0,Có,Có,Có,7.18,56.9,2025
+HN0250,Hà Đông,Biệt thự,51.8,2,1,2.0,Có,Có,Không,4.15,80.1,2026
+HN0251,Hoàng Mai,Nhà phố,182.9,5,4,45.0,Có,Không,Không,9.86,53.9,2026
+HN0252,Long Biên,Nhà phố,123.9,4,3,39.0,Có,Không,Không,5.69,45.9,2026
+HN0253,Bắc Từ Liêm,Nhà phố,137.2,4,3,24.0,Có,Không,Có,6.97,50.8,2025
+HN0254,Đống Đa,Chung cu,55.9,2,1,23.0,Không,Không,Có,3.31,59.2,2024
+HN0255,Đống Đa,Nhà phố,154.4,5,4,34.0,Không,Không,Có,13.6,88.1,2025
+HN0256,Tây Hồ,Nhà trong ngõ,125.9,3,2,2.0,Có,Không,Có,7.69,61.1,2025
+HN0257,Hoàng Mai,Chung cu,101.4,3,2,39.0,Có,Có,Không,4.88,48.1,2026
+HN0258, Cau Giay ,Nhà trong ngõ,46.9,1,1,46.0,Có,Không,Không,2.51,53.6,2025
+HN0259,Hoàn Kiếm,Nhà phố,206.3,6,5,17.0,Không,Không,Có,19.91,96.5,2025
+HN0260,Tây Hồ,Nhà trong ngõ,159.5,5,4,14.0,Không,Không,Có,11.53,72.3,2025
+HN0261,Tây Hồ,Nhà phố,135.3,3,2,34.0,Có,Không,Có,9.8,72.4,2025
+HN0262,Long Biên,Nhà trong ngõ,89.3,2,1,29.0,Có,Không,Có,4.2,47.0,2025
+HN0263,Tây Hồ,Nhà phố,135.8,3,2,48.0,Có,Không,Có,12.59,92.7,2026
+HN0264,Bắc Từ Liêm,Chung cu,120.9,4,3,6.0,Có,Không,Có,5.4,44.7,2025
+HN0265,Long Biên,Nhà trong ngõ,94.4,3,2,35.0,Có,Không,Có,4.24,44.9,2025
+HN0266,Hoàn Kiếm,Chung cu,125.6,4,3,7.0,Không,Không,Có,9.93,79.1,2024
+HN0267,Đống Đa,Biệt thự,84.9,2,1,21.0,Không,Có,Không,9.64,113.6,2025
+HN0268,Hai Bà Trưng,Nhà phố,117.9,4,3,39.0,,Không,Có,8.35,70.8,2025
+HN0269,Hai Bà Trưng,Nhà trong ngõ,55.7,2,1,15.0,Không,Không,Không,3.68,66.1,2025
+HN0270,Hoàn Kiếm,Nhà phố,163.2,6,5,15.0,Có,Không,Có,17.84,109.3,2026
+HN0271,Bắc Từ Liêm,Chung cu,126.9,3,2,33.0,Không,Không,Không,4.3,33.9,2025
+HN0272, Cau Giay ,Nhà trong ngõ,197.2,7,6,23.0,Không,Không,Có,14.4,73.0,2025
+HN0273,Hoàng Mai,Nhà trong ngõ,151.0,4,3,35.0,Có,Không,Không,5.83,38.6,2025
+HN0274,Hoàn Kiếm,Nhà phố,75.5,2,1,1.0,Không,Không,Không,7.76,102.8,2025
+HN0275,Hà Đông,Nhà phố,116.1,4,3,18.0,Không,Không,Không,5.57,48.0,2025
+HN0276,Bắc Từ Liêm,Nhà phố,61.1,2,1,10.0,Không,Không,Không,3.58,58.6,2026
+HN0277,Tây Hồ,Nhà trong ngõ,55.9,2,1,36.0,Có,Không,Có,4.35,77.9,2026
+HN0278,Đống Đa,Chung cu,109.8,2,1,25.0,Có,Có,Không,5.38,49.0,2024
+HN0279,Ba Đình,Nhà trong ngõ,161.0,5,4,33.0,Có,Không,Có,11.3,70.2,2024
+HN0280,Tây Hồ,Chung cu,119.1,5,4,31.0,Không,Có,Có,8.29,69.6,2025
+HN0281, Cau Giay ,Chung cu,42.1,1,1,29.0,Không,Có,Không,2.57,61.1,2025
+HN0282,Hà Đông,Biệt thự,183.1,6,5,19.0,Không,Có,Có,10.27,56.1,2024
+HN0283,Bắc Từ Liêm,Biệt thự,,6,5,4.0,Không,Có,Có,15.38,76.2,2026
+HN0284,Long Biên,Biệt thự,192.1,6,5,15.0,Có,Có,Có,12.52,65.2,2026
+HN0285,Thanh Xuân,Nhà phố,62.7,3,2,12.0,Có,Không,Có,5.34,85.1,2025
+HN0286,Ba Đình,Nhà phố,171.4,4,3,47.0,Có,Không,Có,12.91,75.3,2026
+HN0287,Đống Đa,Nhà phố,209.2,6,5,4.0,Không,Không,Có,18.12,86.6,2026
+HN0288,Ba Đình,Chung cu,71.6,2,1,13.0,Có,Có,Không,4.37,61.0,2024
+HN0289,Long Biên,Biệt thự,80.9,3,2,13.0,Có,Không,Không,7.15,88.4,2025
+HN0290, Cau Giay ,Nhà phố,74.4,2,1,45.0,Không,Không,Có,5.2,69.9,2025
+HN0291,Hai Bà Trưng,Nhà trong ngõ,194.8,5,4,40.0,Có,Không,Không,12.78,65.6,2026
+HN0292,Ba Đình,Chung cu,69.1,1,1,28.0,Không,Không,Có,5.08,73.5,2025
+HN0293, Cau Giay ,Nhà trong ngõ,105.9,2,1,34.0,Không,Không,Có,6.69,63.2,2024
+HN0294,Long Biên,Nhà trong ngõ,148.4,5,4,12.0,Không,Không,Có,6.95,46.8,2025
+HN0295,Hoàn Kiếm,Chung cu,70.9,2,1,32.0,Có,Có,Không,5.36,75.6,2025
+HN0296,Thanh Xuân,Chung cu,60.3,1,1,24.0,Không,Không,Không,3.62,60.1,2025
+HN0297,Hà Đông,Nhà trong ngõ,72.9,2,1,33.0,Có,Không,Có,3.4,46.7,2025
+HN0298,Tây Hồ,Biệt thự,100.4,3,2,6.0,Không,Có,Không,13.03,129.8,2026
+HN0299,Hoàn Kiếm,Nhà phố,43.9,2,1,44.0,Có,Không,Không,3.82,87.0,2024
+HN0300, Cau Giay ,Nhà trong ngõ,115.8,5,4,7.0,Không,Không,Có,7.72,66.7,2025
+HN0301,Tây Hồ,Nhà phố,58.4,2,1,43.0,Có,Không,Có,4.21,72.1,2026
+HN0302,Thanh Xuân,Nhà phố,209.6,6,5,27.0,Không,Không,Có,15.49,73.9,2026
+HN0303,Long Biên,Nhà trong ngõ,146.3,5,4,43.0,Có,Không,Có,6.16,42.1,2024
+HN0304,Long Biên,Chung cu,131.8,5,4,13.0,Có,Không,Có,5.69,43.2,2025
+HN0305,Tây Hồ,Chung cu,103.8,3,2,47.0,Không,Không,Có,5.83,56.2,2026
+HN0306,Hoàng Mai,Nhà phố,111.8,3,2,,Không,Không,Có,6.71,60.0,2025
+HN0307,Hoàng Mai,Nhà trong ngõ,146.8,5,4,41.0,Có,Không,Có,7.53,51.3,2026
+HN0308,Bắc Từ Liêm,Nhà phố,169.7,5,4,42.0,Có,Không,Không,10.64,62.7,2026
+HN0309,Hà Đông,Nhà trong ngõ,137.9,5,4,30.0,Có,Không,Có,6.11,44.3,2024
+HN0310,Bắc Từ Liêm,Nhà phố,205.2,6,5,35.0,Không,Không,Không,12.05,,2025
+HN0311,Tây Hồ,Chung cu,124.2,4,3,35.0,Không,Có,Có,9.2,74.1,2026
+HN0312,Hoàn Kiếm,Nhà phố,118.2,4,3,17.0,Có,Không,Có,13.91,117.7,2026
+HN0313,Hà Đông,Nhà phố,133.5,5,4,43.0,Không,Không,Có,5.94,44.5,2024
+HN0314,Nam Từ Liêm,Chung cu,85.1,4,3,0.0,Có,Không,Có,4.27,50.2,2025
+HN0315,Tây Hồ,Chung cu,89.3,3,2,24.0,Có,Có,Có,4.66,52.2,2024
+HN0316, Cau Giay ,Nhà phố,136.3,5,4,23.0,Không,Không,Có,9.7,71.2,2026
+HN0317,Ba Đình,Nhà trong ngõ,134.6,5,4,2.0,Có,Không,Không,7.97,59.2,2025
+HN0318,Hà Đông,Biệt thự,152.1,5,4,7.0,Có,Có,Có,11.85,77.9,2024
+HN0319,Thanh Xuân,Nhà phố,160.3,4,3,32.0,Có,Không,Có,11.51,71.8,2026
+HN0320,Hai Bà Trưng,Nhà phố,47.4,1,1,44.0,Có,Không,Có,4.12,86.9,2024
+HN0321,Đống Đa,Nhà trong ngõ,117.7,4,3,15.0,Có,Không,Có,8.31,70.6,2025
+HN0322,Bắc Từ Liêm,Nhà trong ngõ,130.7,4,3,29.0,Có,Không,Có,6.17,47.2,2025
+HN0323, Cau Giay ,Nhà phố,201.7,5,4,23.0,Có,Không,Không,15.17,75.2,2026
+HN0324,Hai Bà Trưng,Nhà trong ngõ,184.1,7,6,35.0,Không,Không,Không,10.7,58.1,2025
+HN0325,Bắc Từ Liêm,Chung cu,46.4,1,1,19.0,Không,Không,Có,1.96,42.3,2024
+HN0326,Ba Đình,Nhà phố,192.7,6,5,20.0,Không,Không,Không,16.4,85.1,2025
+HN0327,Hoàng Mai,Nhà trong ngõ,137.4,5,4,29.0,Không,Không,Có,7.17,52.2,2026
+HN0328,Đống Đa,Nhà phố,56.8,3,2,1.0,Có,Không,Không,4.15,73.1,2024
+HN0329,Hoàn Kiếm,Nhà trong ngõ,102.2,2,1,14.0,Không,Không,Có,6.75,66.0,2026
+HN0330,Thanh Xuân,Biệt thự,,6,5,2.0,Không,Có,Có,16.3,87.9,2025
+HN0331,Hoàng Mai,Nhà phố,50.7,2,1,32.0,Không,Không,Có,2.77,54.7,2024
+HN0332,Long Biên,Chung cu,122.1,4,3,47.0,Có,Có,Có,5.73,46.9,2025
+HN0333,Hoàn Kiếm,Nhà trong ngõ,57.8,2,1,20.0,Có,Không,Có,5.23,90.4,2026
+HN0334,Ba Đình,Chung cu,52.1,1,1,16.0,Có,Có,Có,3.42,65.6,2024
+HN0335,Ba Đình,Nhà trong ngõ,107.3,2,1,34.0,Có,Không,Có,8.65,80.6,2026
+HN0336,Đống Đa,Nhà trong ngõ,119.2,4,3,33.0,Có,Không,Có,6.01,50.4,2024
+HN0337,Hai Bà Trưng,Biệt thự,147.6,4,3,44.0,Có,Không,Có,15.51,105.1,2025
+HN0338,Nam Từ Liêm,Nhà trong ngõ,169.7,5,4,27.0,Không,Không,Có,7.81,46.0,2026
+HN0339,Tây Hồ,Chung cu,133.6,4,3,37.0,Không,Có,Có,8.51,63.7,2025
+HN0340,Đống Đa,Nhà trong ngõ,187.1,7,6,37.0,Không,Không,Có,11.71,62.6,2026
+HN0341,Bắc Từ Liêm,Nhà trong ngõ,152.8,5,4,25.0,Có,Không,Không,6.94,45.4,2025
+HN0342,Hoàng Mai,Nhà phố,56.8,1,1,15.0,Không,Không,Có,3.66,64.4,2025
+HN0343,Nam Từ Liêm,Nhà trong ngõ,63.8,2,1,42.0,Có,Không,Có,3.3,51.8,2025
+HN0344,Hai Bà Trưng,Chung cu,90.0,2,1,14.0,Có,Không,Có,5.42,60.2,2025
+HN0345, Cau Giay ,Nhà phố,204.6,6,5,3.0,Không,Không,Có,15.37,75.1,2026
+HN0346,Nam Từ Liêm,Nhà phố,74.2,2,1,3.0,Có,Không,Có,5.94,80.1,2026
+HN0347,Thanh Xuân,Chung cu,52.1,2,1,17.0,Có,Không,Có,2.49,47.8,2024
+HN0348, Cau Giay ,Nhà phố,97.1,4,3,9.0,Không,Không,Có,8.31,85.6,2025
+HN0349,Bắc Từ Liêm,Chung cu,113.1,3,2,8.0,Có,Không,Có,4.35,38.5,2025
+HN0350,Long Biên,Nhà phố,93.2,4,3,46.0,Có,Không,Có,4.25,45.6,2025
+HN0351, Cau Giay ,Chung cu,139.5,4,3,7.0,Không,Không,Có,7.32,52.5,2026
+HN0352,Nam Từ Liêm,Chung cu,49.5,1,1,31.0,Có,Có,Có,2.25,45.4,2026
+HN0353,Hai Bà Trưng,Nhà trong ngõ,76.9,2,1,47.0,Có,Không,Không,4.7,61.1,2025
+HN0354,Hà Đông,Chung cu,65.6,3,2,16.0,Không,Có,Không,2.32,35.3,2025
+HN0355,Bắc Từ Liêm,Nhà trong ngõ,197.6,6,5,10.0,Không,Không,Có,8.58,43.4,2025
+HN0356,Hoàn Kiếm,Nhà phố,47.3,2,1,36.0,Có,Không,Có,4.9,103.6,2025
+HN0357,Tây Hồ,Nhà phố,81.1,3,2,34.0,,Không,Không,5.77,71.2,2025
+HN0358,Hà Đông,Nhà trong ngõ,49.6,2,1,46.0,Không,Không,Có,1.57,31.6,2025
+HN0359,Hoàn Kiếm,Nhà trong ngõ,204.5,5,4,1.0,Không,Không,Có,17.91,87.6,2026
+HN0360,Nam Từ Liêm,Nhà trong ngõ,135.8,5,4,10.0,Không,Không,Có,8.05,59.3,2026
+HN0361,Ba Đình,Chung cu,64.0,2,1,18.0,Không,Có,Không,4.51,70.4,2025
+HN0362,Hoàng Mai,Nhà phố,184.0,7,6,10.0,Có,Không,Có,9.2,50.0,2026
+HN0363,Tây Hồ,Nhà phố,48.2,2,1,11.0,Có,Không,Có,4.58,95.0,2024
+HN0364,Ba Đình,Chung cu,79.6,2,1,10.0,Có,Không,Có,6.04,75.9,2024
+HN0365,Ba Đình,Nhà trong ngõ,64.6,2,1,2.0,Không,Không,Không,4.53,70.1,2024
+HN0366,Bắc Từ Liêm,Biệt thự,55.6,2,1,44.0,Không,Không,Có,3.58,64.4,2025
+HN0367,Hoàng Mai,Chung cu,51.5,2,1,,Có,Có,Có,1.83,35.5,2025
+HN0368,Hoàng Mai,Nhà phố,202.2,6,5,9.0,Không,Không,Không,13.87,68.6,2024
+HN0369,Ba Đình,Chung cu,89.9,3,2,38.0,Có,Không,Có,6.51,72.4,2025
+HN0370,Hà Đông,Nhà trong ngõ,124.5,3,2,2.0,Có,Không,Có,5.13,41.2,2024
+HN0371,Đống Đa,Nhà trong ngõ,61.4,2,1,8.0,Có,Không,Có,4.06,66.1,2025
+HN0372,Hai Bà Trưng,Nhà trong ngõ,77.2,2,1,38.0,Không,Không,Có,3.86,50.0,2025
+HN0373,Thanh Xuân,Nhà trong ngõ,64.2,2,1,42.0,Có,Không,Có,3.2,49.8,2025
+HN0374,Nam Từ Liêm,Chung cu,66.1,1,1,35.0,Có,Không,Có,3.7,56.0,2025
+HN0375,Hai Bà Trưng,Nhà trong ngõ,158.8,5,4,27.0,Có,Không,Có,7.88,49.6,2025
+HN0376,Hà Đông,Nhà phố,140.9,3,2,41.0,Không,Không,Có,7.75,55.0,2025
+HN0377,Thanh Xuân,Nhà phố,,6,5,29.0,Có,Không,Không,12.58,77.7,2026
+HN0378,Hoàng Mai,Biệt thự,132.7,4,3,29.0,Có,Không,Có,9.09,68.5,2025
+HN0379,Tây Hồ,Nhà trong ngõ,142.9,5,4,13.0,Không,Không,Có,10.2,71.4,2026
+HN0380,Hà Đông,Nhà phố,134.0,3,2,28.0,Có,Không,Không,6.43,48.0,2025
+HN0381,Bắc Từ Liêm,Nhà phố,127.1,3,2,32.0,Có,Không,Không,6.01,47.3,2024
+HN0382,Thanh Xuân,Nhà trong ngõ,197.2,6,5,29.0,Không,Không,Có,11.75,59.6,2025
+HN0383,Hà Đông,Nhà trong ngõ,63.7,1,1,5.0,Không,Không,Không,2.45,38.4,2025
+HN0384, Cau Giay ,Nhà phố,136.0,4,3,25.0,Không,Không,Có,9.36,68.8,2026
+HN0385,Thanh Xuân,Nhà phố,155.5,5,4,21.0,Có,Không,Không,11.04,71.0,2024
+HN0386,Hoàng Mai,Nhà trong ngõ,72.0,1,1,19.0,Có,Không,Có,3.45,47.9,2024
+HN0387,Thanh Xuân,Biệt thự,133.6,4,3,22.0,Không,Không,Có,12.68,94.9,2026
+HN0388,Thanh Xuân,Nhà phố,190.9,5,4,46.0,Có,Không,Có,13.23,69.3,2025
+HN0389,Nam Từ Liêm,Nhà trong ngõ,54.1,1,1,20.0,Có,Không,Có,2.49,46.0,2025
+HN0390,Thanh Xuân,Nhà phố,74.6,2,1,22.0,Có,Không,Có,5.28,70.8,2026
+HN0391,Thanh Xuân,Chung cu,71.7,1,1,44.0,Không,Có,Không,3.18,44.4,2025
+HN0392,Hai Bà Trưng,Nhà phố,201.6,5,4,19.0,Có,Không,Có,14.9,73.9,2026
+HN0393,Nam Từ Liêm,Nhà trong ngõ,73.9,1,1,13.0,Không,Không,Có,3.44,46.5,2025
+HN0394,Đống Đa,Nhà trong ngõ,119.2,4,3,21.0,Không,Không,Có,7.6,63.8,2024
+HN0395,Bắc Từ Liêm,Chung cu,129.8,3,2,4.0,Có,Có,Không,6.07,46.8,2025
+HN0396,Long Biên,Chung cu,124.3,4,3,0.0,Không,Có,Không,5.53,44.5,2026
+HN0397,Ba Đình,Nhà phố,45.9,1,1,31.0,Không,Không,Có,3.51,76.4,2025
+HN0398, Cau Giay ,Nhà phố,94.4,3,2,42.0,Không,Không,Có,7.66,81.1,2024
+HN0399,Ba Đình,Chung cu,77.9,3,2,12.0,Có,Có,Có,4.51,57.9,2024
+HN0400,Ba Đình,Nhà phố,199.1,5,4,41.0,Không,Không,Có,16.68,83.8,2025
+HN0401,Đống Đa,Chung cu,60.5,3,2,31.0,Có,Có,Có,3.88,64.1,2025
+HN0402,Ba Đình,Nhà trong ngõ,91.3,3,2,24.0,Không,Không,Có,6.71,73.5,2024
+HN0403,Hà Đông,Nhà phố,146.3,4,3,30.0,Có,Không,Có,6.09,41.6,2024
+HN0404, Cau Giay ,Nhà trong ngõ,161.5,5,4,47.0,Không,Không,Có,8.96,55.5,2025
+HN0405,Đống Đa,Nhà trong ngõ,172.6,6,5,39.0,Có,Không,Có,8.25,47.8,2024
+HN0406,Hoàng Mai,Chung cu,86.9,3,2,28.0,Không,Có,Có,3.02,34.7,2025
+HN0407, Cau Giay ,Nhà trong ngõ,127.4,3,2,30.0,Có,Không,Không,7.61,59.7,2026
+HN0408, Cau Giay ,Chung cu,131.5,3,2,22.0,Có,Không,Không,8.77,66.7,2026
+HN0409,Hà Đông,Nhà trong ngõ,48.0,2,1,43.0,Không,Không,Có,1.72,35.8,2026
+HN0410,Tây Hồ,Nhà trong ngõ,74.4,2,1,10.0,Không,Không,Không,4.96,66.7,2024
+HN0411,Nam Từ Liêm,Chung cu,72.3,2,1,21.0,Có,Có,Có,3.49,48.3,2025
+HN0412,Tây Hồ,Biệt thự,101.9,3,2,27.0,Không,Có,Không,10.87,106.7,2025
+HN0413,Hà Đông,Nhà trong ngõ,158.9,6,5,4.0,Có,Không,Có,6.28,,2026
+HN0414,Hà Đông,Nhà phố,202.7,5,4,3.0,Có,Không,Có,11.96,59.0,2026
+HN0415,Ba Đình,Chung cu,89.6,3,2,39.0,Không,Không,Có,4.73,52.8,2025
+HN0416,Thanh Xuân,Nhà trong ngõ,200.2,5,4,13.0,Có,Không,Có,9.87,49.3,2024
+HN0417,Hai Bà Trưng,Nhà phố,97.8,2,1,22.0,Không,Không,Có,8.5,86.9,2025
+HN0418,Nam Từ Liêm,Chung cu,65.0,2,1,39.0,Có,Có,Có,3.13,48.2,2024
+HN0419,Đống Đa,Chung cu,78.0,2,1,47.0,Có,Không,Có,3.42,43.9,2024
+HN0420,Hoàng Mai,Biệt thự,98.5,3,2,35.0,Không,Có,Có,6.67,67.7,2026
+HN0421,Hà Đông,Nhà trong ngõ,128.1,4,3,19.0,Có,Không,Có,5.11,39.9,2025
+HN0422,Long Biên,Biệt thự,142.1,4,3,18.0,Không,Có,Không,9.61,67.6,2026
+HN0423, Cau Giay ,Chung cu,105.1,3,2,16.0,Không,Có,Có,5.93,56.4,2026
+HN0424,Đống Đa,Nhà phố,,7,6,34.0,Có,Không,Không,16.57,84.1,2024
+HN0425,Long Biên,Chung cu,48.5,2,1,39.0,Có,Có,Không,2.14,44.1,2026
+HN0426,Thanh Xuân,Nhà trong ngõ,83.6,4,3,30.0,Có,Không,Không,5.11,61.1,2025
+HN0427,Thanh Xuân,Nhà phố,115.9,4,3,1.0,Không,Không,Không,8.36,72.1,2025
+HN0428,Hoàng Mai,Nhà trong ngõ,203.2,5,4,,Không,Không,Có,9.71,47.8,2025
+HN0429,Bắc Từ Liêm,Chung cu,75.9,3,2,38.0,Không,Không,Không,2.81,37.0,2026
+HN0430,Đống Đa,Nhà phố,103.2,3,2,43.0,Có,Không,Có,6.18,59.9,2026
+HN0431,Đống Đa,Chung cu,51.2,2,1,14.0,Không,Có,Có,2.4,46.8,2024
+HN0432,Hà Đông,Nhà trong ngõ,63.3,2,1,13.0,Có,Không,Có,2.74,43.3,2026
+HN0433,Hà Đông,Nhà phố,160.1,6,5,29.0,Có,Không,Có,7.54,47.1,2026
+HN0434,Bắc Từ Liêm,Biệt thự,134.0,3,2,27.0,Có,Không,Có,11.38,84.9,2026
+HN0435,Long Biên,Chung cu,50.6,2,1,19.0,Không,Có,Có,2.29,45.2,2026
+HN0436,Long Biên,Nhà phố,84.2,2,1,11.0,Có,Không,Có,4.17,49.5,2026
+HN0437,Ba Đình,Nhà phố,187.2,6,5,17.0,Không,Không,Có,18.55,99.1,2026
+HN0438,Nam Từ Liêm,Nhà trong ngõ,171.6,5,4,9.0,Có,Không,Có,9.82,57.2,2025
+HN0439, Cau Giay ,Nhà phố,188.2,6,5,8.0,Không,Không,Có,15.38,81.7,2024
+HN0440,Đống Đa,Nhà phố,117.9,5,4,35.0,Có,Không,Có,9.43,80.0,2026
+HN0441,Hai Bà Trưng,Nhà trong ngõ,142.5,4,3,47.0,Không,Không,Không,8.68,60.9,2026
+HN0442,Nam Từ Liêm,Nhà trong ngõ,95.5,3,2,30.0,Không,Không,Có,5.97,62.5,2025
+HN0443,Long Biên,Nhà trong ngõ,204.4,5,4,47.0,Không,Không,Có,10.0,48.9,2025
+HN0444,Hoàng Mai,Nhà phố,121.3,5,4,48.0,Không,Không,Có,7.06,58.2,2026
+HN0445,Hà Đông,Nhà phố,175.9,4,3,27.0,Có,Không,Có,9.9,56.3,2024
+HN0446,Đống Đa,Nhà trong ngõ,143.7,4,3,34.0,,Không,Có,8.23,57.3,2026
+HN0447,Nam Từ Liêm,Nhà phố,42.0,2,1,18.0,Có,Không,Có,2.67,63.5,2025
+HN0448,Tây Hồ,Nhà trong ngõ,128.9,4,3,41.0,Có,Không,Không,7.49,58.1,2026
+HN0449,Long Biên,Nhà trong ngõ,158.7,6,5,27.0,Có,Không,Có,6.97,43.9,2025
+HN0450,Hoàn Kiếm,Nhà phố,58.2,3,2,9.0,Không,Không,Có,5.99,102.9,2024
+HN0451,Thanh Xuân,Biệt thự,163.9,6,5,41.0,Không,Có,Không,12.55,76.6,2025
+HN0452,Tây Hồ,Nhà trong ngõ,62.3,2,1,28.0,Có,Không,Có,4.55,73.0,2025
+HN0453,Thanh Xuân,Nhà phố,182.3,6,5,6.0,Không,Không,Có,14.77,81.0,2025
+HN0454,Bắc Từ Liêm,Chung cu,66.3,1,1,33.0,Không,Có,Có,2.71,40.8,2026
+HN0455,Hoàn Kiếm,Chung cu,136.6,4,3,24.0,Không,Có,Không,9.07,66.4,2024
+HN0456,Thanh Xuân,Nhà trong ngõ,133.9,4,3,36.0,Không,Không,Có,8.64,64.5,2026
+HN0457, Cau Giay ,Chung cu,74.1,1,1,27.0,Có,Không,Không,4.45,60.1,2025
+HN0458,Thanh Xuân,Chung cu,44.8,1,1,24.0,Không,Không,Không,2.17,48.4,2026
+HN0459,Tây Hồ,Nhà trong ngõ,146.2,5,4,40.0,Có,Không,Có,10.19,69.7,2025
+HN0460,Hai Bà Trưng,Nhà phố,69.4,2,1,17.0,Không,Không,Không,5.14,74.0,2025
+HN0461,Tây Hồ,Nhà phố,74.3,2,1,47.0,Không,Không,Có,5.29,71.2,2024
+HN0462,Nam Từ Liêm,Nhà phố,109.8,4,3,16.0,Không,Không,Có,7.37,67.1,2026
+HN0463,Tây Hồ,Biệt thự,134.8,4,3,20.0,Có,Không,Không,15.49,114.9,2026
+HN0464, Cau Giay ,Nhà phố,189.0,7,6,14.0,Có,Không,Có,12.83,67.9,2025
+HN0465,Bắc Từ Liêm,Nhà trong ngõ,66.1,1,1,16.0,Có,Không,Có,2.37,35.9,2026
+HN0466,Nam Từ Liêm,Biệt thự,108.6,4,3,33.0,Không,Không,Có,9.13,84.1,2025
+HN0467,Hoàng Mai,Nhà phố,180.3,7,6,10.0,Có,Không,Không,10.37,57.5,2024
+HN0468,Hoàn Kiếm,Nhà phố,175.5,4,3,18.0,Không,Không,Có,15.57,88.7,2026
+HN0469,Nam Từ Liêm,Chung cu,128.2,5,4,20.0,Không,Có,Có,7.09,55.3,2025
+HN0470,Long Biên,Nhà phố,172.0,6,5,6.0,Có,Không,Không,9.75,56.7,2025
+HN0471, Cau Giay ,Biệt thự,,2,1,32.0,Có,Có,Có,7.42,113.0,2025
+HN0472,Tây Hồ,Nhà phố,105.6,2,1,35.0,Không,Không,Không,9.72,92.0,2025
+HN0473,Hai Bà Trưng,Chung cu,125.7,4,3,31.0,Có,Có,Có,7.28,57.9,2025
+HN0474,Hai Bà Trưng,Nhà phố,110.7,4,3,1.0,Có,Không,Có,9.41,85.0,2025
+HN0475, Cau Giay ,Nhà phố,53.5,2,1,35.0,Không,Không,Có,3.56,66.6,2024
+HN0476,Thanh Xuân,Chung cu,100.8,2,1,45.0,Có,Có,Có,4.3,42.7,2026
+HN0477,Long Biên,Nhà phố,96.3,4,3,25.0,Có,Không,Có,6.11,63.4,2025
+HN0478,Hà Đông,Nhà trong ngõ,40.1,1,1,34.0,Có,Không,Có,1.61,40.2,2024
+HN0479,Hai Bà Trưng,Nhà trong ngõ,84.0,2,1,5.0,Không,Không,Có,5.8,69.1,2025
+HN0480,Thanh Xuân,Nhà trong ngõ,52.0,2,1,4.0,Không,Không,Có,2.78,53.5,2026
+HN0481,Hoàng Mai,Nhà trong ngõ,114.5,4,3,6.0,Không,Không,Không,6.01,52.5,2025
+HN0482,Hoàn Kiếm,Nhà trong ngõ,42.0,2,1,30.0,Không,Không,Có,2.92,69.6,2026
+HN0483,Hoàng Mai,Nhà trong ngõ,44.2,1,1,8.0,Có,Không,Có,1.67,37.7,2025
+HN0484,Long Biên,Nhà trong ngõ,98.2,3,2,44.0,Có,Không,Có,4.04,41.1,2024
+HN0485,Nam Từ Liêm,Nhà trong ngõ,75.0,1,1,35.0,Có,Không,Không,3.23,43.1,2026
+HN0486,Long Biên,Chung cu,55.9,3,2,41.0,Có,Không,Có,2.62,46.9,2025
+HN0487,Long Biên,Nhà phố,39.8,1,1,20.0,Có,Không,Có,2.48,62.3,2026
+HN0488,Hoàn Kiếm,Biệt thự,140.6,4,3,17.0,Không,Có,Có,16.38,116.5,2026
+HN0489,Hoàn Kiếm,Chung cu,89.9,3,2,,Không,Có,Không,6.14,68.3,2026
+HN0490,Bắc Từ Liêm,Nhà trong ngõ,138.6,3,2,47.0,Có,Không,Có,5.06,36.5,2024
+HN0491,Long Biên,Chung cu,116.6,3,2,48.0,Có,Có,Có,5.07,43.5,2026
+HN0492, Cau Giay ,Chung cu,87.3,3,2,7.0,Không,Không,Có,4.22,48.3,2025
+HN0493,Hoàng Mai,Chung cu,116.2,4,3,32.0,Không,Có,Có,4.4,37.9,2026
+HN0494, Cau Giay ,Nhà trong ngõ,110.1,3,2,7.0,Có,Không,Không,6.86,62.3,2025
+HN0495,Hoàng Mai,Nhà trong ngõ,146.5,5,4,39.0,Có,Không,Có,7.44,50.8,2025
+HN0496,Hoàng Mai,Nhà phố,70.3,2,1,14.0,Có,Không,Có,4.75,67.6,2025
+HN0497, Cau Giay ,Nhà phố,45.6,1,1,19.0,Có,Không,Có,3.6,78.9,2025
+HN0498,Tây Hồ,Chung cu,86.8,2,1,24.0,Có,Không,Không,4.94,56.9,2025
+HN0499,Hoàn Kiếm,Nhà trong ngõ,95.5,4,3,12.0,Không,Không,Không,7.71,80.7,2025
+HN0500,Ba Đình,Nhà trong ngõ,69.5,2,1,46.0,Có,Không,Có,4.82,69.3,2025
+HN0501,Thanh Xuân,Chung cu,63.9,2,1,30.0,Có,Có,Có,3.34,52.2,2025
+HN0502, Cau Giay ,Nhà phố,134.0,3,2,41.0,Có,Không,Có,12.11,90.4,2025
+HN0503,Hoàng Mai,Nhà phố,77.3,2,1,16.0,Không,Không,Có,3.69,47.8,2025
+HN0504,Đống Đa,Nhà trong ngõ,209.9,7,6,2.0,Có,Không,Có,11.84,56.4,2024
+HN0505,Tây Hồ,Nhà trong ngõ,94.5,4,3,16.0,Không,Không,Có,6.62,70.0,2026
+HN0506,Hoàn Kiếm,Chung cu,116.3,3,2,6.0,Không,Có,Có,7.87,67.7,2025
+HN0507, Cau Giay ,Nhà trong ngõ,39.8,1,1,36.0,Có,Không,Có,2.3,57.7,2025
+HN0508,Đống Đa,Chung cu,54.8,2,1,28.0,Có,Có,Có,3.01,55.0,2026
+HN0509,Hoàn Kiếm,Nhà trong ngõ,92.4,2,1,12.0,Không,Không,Không,6.87,74.3,2025
+HN0510,Hà Đông,Nhà trong ngõ,99.8,2,1,43.0,Không,Không,Không,3.7,37.1,2026
+HN0511,Hoàng Mai,Nhà trong ngõ,188.3,6,5,0.0,Không,Không,Có,7.68,40.8,2026
+HN0512,Long Biên,Chung cu,64.8,3,2,33.0,Không,Có,Không,2.99,46.1,2026
+HN0513,Ba Đình,Nhà phố,162.1,5,4,37.0,Có,Không,Có,14.38,88.7,2026
+HN0514,Hoàn Kiếm,Chung cu,87.4,2,1,22.0,Có,Có,Không,5.24,60.0,2025
+HN0515,Ba Đình,Nhà phố,208.0,6,5,6.0,Có,Không,Có,21.24,102.1,2025
+HN0516,Long Biên,Nhà phố,157.4,6,5,41.0,Có,Không,Có,8.58,,2024
+HN0517,Ba Đình,Chung cu,119.5,4,3,31.0,Có,Có,Không,8.5,71.1,2025
+HN0518,Hà Đông,Nhà trong ngõ,,2,1,7.0,Có,Không,Có,1.84,34.9,2025
+HN0519,Thanh Xuân,Nhà trong ngõ,166.1,6,5,12.0,Không,Không,Có,9.19,55.3,2026
+HN0520,Bắc Từ Liêm,Nhà phố,69.6,2,1,29.0,Có,Không,Không,3.73,53.6,2026
+HN0521, Cau Giay ,Chung cu,52.6,1,1,2.0,Không,Có,Không,3.47,66.0,2024
+HN0522,Hoàn Kiếm,Nhà phố,120.5,4,3,5.0,Không,Không,Không,10.31,85.6,2024
+HN0523,Hai Bà Trưng,Nhà phố,103.0,2,1,31.0,Có,Không,Có,9.06,88.0,2025
+HN0524,Tây Hồ,Nhà phố,110.0,3,2,17.0,Có,Không,Không,10.98,99.8,2025
+HN0525,Long Biên,Nhà phố,152.6,6,5,15.0,Không,Không,Có,7.26,47.6,2024
+HN0526,Hoàn Kiếm,Nhà phố,190.4,6,5,5.0,Có,Không,Có,21.61,113.5,2026
+HN0527,Long Biên,Nhà trong ngõ,47.9,1,1,29.0,Có,Không,Không,1.92,40.0,2025
+HN0528,Hà Đông,Biệt thự,108.7,3,2,43.0,Có,Có,Có,6.19,56.9,2026
+HN0529,Hoàn Kiếm,Nhà phố,150.6,5,4,26.0,Có,Không,Có,14.11,93.7,2026
+HN0530,Thanh Xuân,Biệt thự,133.3,4,3,13.0,Có,Có,Không,10.76,80.7,2024
+HN0531,Hoàn Kiếm,Chung cu,56.0,3,2,22.0,Không,Có,Không,4.44,79.3,2026
+HN0532,Đống Đa,Nhà phố,180.9,7,6,28.0,Có,Không,Có,11.14,61.6,2025
+HN0533,Hà Đông,Chung cu,146.7,4,3,1.0,Có,Không,Không,4.84,33.0,2024
+HN0534,Hai Bà Trưng,Nhà phố,133.4,5,4,47.0,Không,Không,Không,8.2,61.5,2025
+HN0535,Hà Đông,Chung cu,116.3,5,4,9.0,,Không,Không,3.86,33.2,2026
+HN0536,Long Biên,Nhà phố,139.2,3,2,31.0,Có,Không,Có,7.67,55.1,2026
+HN0537,Tây Hồ,Chung cu,49.4,3,2,15.0,Không,Có,Không,2.82,57.1,2024
+HN0538,Ba Đình,Biệt thự,165.5,5,4,35.0,Có,Có,Có,21.88,132.2,2026
+HN0539, Cau Giay ,Nhà trong ngõ,86.9,3,2,20.0,Có,Không,Có,5.37,61.8,2025
+HN0540,Đống Đa,Nhà trong ngõ,110.8,4,3,3.0,Có,Không,Không,6.33,57.1,2025
+HN0541,Hà Đông,Nhà trong ngõ,176.9,5,4,22.0,Không,Không,Có,8.35,47.2,2026
+HN0542,Hà Đông,Nhà trong ngõ,198.8,6,5,38.0,Không,Không,Không,8.85,44.5,2025
+HN0543,Tây Hồ,Chung cu,70.4,3,2,37.0,Có,Có,Có,4.6,65.3,2025
+HN0544,Bắc Từ Liêm,Nhà phố,187.0,6,5,5.0,Có,Không,Không,9.05,48.4,2025
+HN0545,Nam Từ Liêm,Chung cu,48.0,2,1,21.0,Có,Có,Không,2.88,59.9,2025
+HN0546,Hoàn Kiếm,Nhà phố,202.8,7,6,42.0,Không,Không,Có,20.3,100.1,2025
+HN0547,Thanh Xuân,Nhà phố,99.2,4,3,33.0,Có,Không,Có,7.01,70.7,2024
+HN0548,Hoàng Mai,Nhà phố,91.4,2,1,23.0,Không,Không,Có,5.6,61.3,2025
+HN0549,Hai Bà Trưng,Nhà trong ngõ,107.5,3,2,16.0,Có,Không,Không,5.59,52.0,2025
+HN0550,Hoàng Mai,Nhà phố,196.1,7,6,,Có,Không,Có,10.75,54.8,2026
+HN0551,Hà Đông,Chung cu,64.7,2,1,37.0,Không,Có,Có,2.48,38.3,2026
+HN0552,Long Biên,Biệt thự,66.6,1,1,15.0,Có,Không,Không,4.58,68.7,2026
+HN0553,Long Biên,Nhà phố,73.7,2,1,39.0,Có,Không,Không,3.77,51.1,2024
+HN0554,Ba Đình,Chung cu,117.8,4,3,32.0,Không,Có,Có,8.98,76.2,2026
+HN0555,Hoàng Mai,Nhà trong ngõ,92.8,3,2,35.0,Có,Không,Có,4.5,48.5,2025
+HN0556,Thanh Xuân,Nhà phố,56.8,1,1,7.0,Không,Không,Có,4.53,79.7,2025
+HN0557,Tây Hồ,Nhà trong ngõ,52.4,3,2,15.0,Không,Không,Có,4.18,79.8,2025
+HN0558,Hà Đông,Nhà phố,204.9,6,5,31.0,Có,Không,Có,11.45,55.9,2024
+HN0559,Thanh Xuân,Nhà phố,122.4,5,4,11.0,Có,Không,Có,7.77,63.5,2024
+HN0560,Nam Từ Liêm,Chung cu,75.8,2,1,39.0,Có,Không,Có,3.08,40.6,2024
+HN0561,Long Biên,Nhà trong ngõ,168.6,5,4,10.0,Có,Không,Có,7.72,45.8,2025
+HN0562,Bắc Từ Liêm,Nhà trong ngõ,43.6,1,1,41.0,Không,Không,Có,1.68,38.5,2026
+HN0563,Tây Hồ,Nhà phố,148.9,5,4,40.0,Có,Không,Không,13.77,92.5,2024
+HN0564,Thanh Xuân,Nhà phố,86.3,3,2,4.0,Có,Không,Không,5.19,60.1,2025
+HN0565,Nam Từ Liêm,Chung cu,,4,3,19.0,Có,Không,Không,4.53,54.1,2025
+HN0566,Ba Đình,Nhà trong ngõ,131.0,5,4,31.0,Có,Không,Không,10.44,79.7,2024
+HN0567,Hà Đông,Chung cu,66.5,1,1,2.0,Có,Có,Có,2.84,42.7,2025
+HN0568,Nam Từ Liêm,Nhà phố,103.7,3,2,24.0,Không,Không,Có,7.85,75.7,2025
+HN0569,Tây Hồ,Nhà trong ngõ,204.8,7,6,40.0,Có,Không,Có,15.4,75.2,2025
+HN0570,Ba Đình,Biệt thự,89.6,3,2,4.0,Có,Có,Có,9.17,102.3,2024
+HN0571,Tây Hồ,Biệt thự,50.0,2,1,28.0,Có,Có,Không,5.37,107.4,2024
+HN0572,Thanh Xuân,Nhà phố,150.3,4,3,3.0,Có,Không,Không,12.46,82.9,2025
+HN0573,Hoàn Kiếm,Chung cu,134.1,4,3,45.0,Có,Có,Có,10.03,74.8,2026
+HN0574,Hoàng Mai,Nhà phố,94.2,2,1,22.0,Có,Không,Có,5.38,57.1,2025
+HN0575,Hoàn Kiếm,Nhà phố,51.0,1,1,37.0,Không,Không,Có,5.74,112.5,2025
+HN0576,Ba Đình,Nhà phố,161.0,5,4,28.0,Có,Không,Không,16.65,103.4,2025
+HN0577,Hà Đông,Nhà phố,64.6,1,1,38.0,Có,Không,Không,3.69,57.1,2025
+HN0578,Hoàn Kiếm,Chung cu,56.7,3,2,9.0,Có,Có,Không,4.03,71.0,2026
+HN0579, Cau Giay ,Nhà trong ngõ,103.3,2,1,43.0,Không,Không,Có,5.32,51.5,2024
+HN0580, Cau Giay ,Nhà trong ngõ,206.9,7,6,25.0,Có,Không,Có,11.96,57.8,2025
+HN0581,Đống Đa,Nhà trong ngõ,110.4,3,2,0.0,Không,Không,Không,7.29,66.0,2026
+HN0582,Hoàn Kiếm,Nhà trong ngõ,184.2,5,4,29.0,Có,Không,Có,12.77,69.3,2024
+HN0583,Hà Đông,Nhà phố,123.7,4,3,8.0,Có,Không,Có,5.65,45.7,2024
+HN0584, Cau Giay ,Nhà trong ngõ,133.1,3,2,2.0,Không,Không,Có,6.84,51.4,2025
+HN0585,Hoàng Mai,Nhà trong ngõ,151.1,6,5,19.0,Có,Không,Có,6.29,41.6,2025
+HN0586, Cau Giay ,Nhà phố,154.0,6,5,39.0,Có,Không,Có,12.86,83.5,2026
+HN0587,Hoàng Mai,Biệt thự,207.3,5,4,34.0,Có,Có,Có,14.7,70.9,2026
+HN0588,Bắc Từ Liêm,Biệt thự,80.9,2,1,25.0,Không,Có,Có,5.87,72.6,2025
+HN0589,Bắc Từ Liêm,Chung cu,144.4,5,4,3.0,Không,Không,Có,6.05,41.9,2025
+HN0590, Cau Giay ,Biệt thự,65.6,3,2,26.0,Có,Không,Có,6.2,94.5,2024
+HN0591,Hà Đông,Biệt thự,63.9,2,1,44.0,Không,Không,Có,4.0,62.6,2026
+HN0592,Đống Đa,Nhà phố,168.4,5,4,35.0,Có,Không,Có,13.03,77.4,2025
+HN0593,Ba Đình,Nhà trong ngõ,113.7,4,3,29.0,Không,Không,Không,7.47,65.7,2025
+HN0594,Đống Đa,Nhà phố,186.5,5,4,45.0,Không,Không,Có,11.45,61.4,2025
+HN0595, Cau Giay ,Chung cu,100.6,3,2,19.0,Có,Không,Có,5.01,49.8,2024
+HN0596,Hà Đông,Nhà trong ngõ,148.4,5,4,38.0,Có,Không,Không,5.54,37.3,2025
+HN0597,Đống Đa,Nhà trong ngõ,199.3,5,4,2.0,Có,Không,Có,10.16,51.0,2024
+HN0598,Thanh Xuân,Biệt thự,149.9,4,3,13.0,Không,Không,Có,12.79,85.3,2024
+HN0599,Đống Đa,Chung cu,131.6,5,4,43.0,Không,Có,Có,8.32,63.2,2024
+HN0600,Thanh Xuân,Biệt thự,78.8,2,1,10.0,Không,Có,Có,7.23,91.8,2024
